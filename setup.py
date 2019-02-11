@@ -2,7 +2,7 @@ from setuptools import setup
 from rockyridge import read_string_from_file
 
 setup(name='rockyridge',
-      version='0.0.1',
+      version='0.0.3',
       author='pythonflaskserverapps',
       author_email='pythonflaskserverapps@gmail.com',
       description='test project',
